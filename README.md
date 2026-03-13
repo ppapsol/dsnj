@@ -12,7 +12,7 @@ Visit the landing page at: [Coming Soon]
 
 ## 📱 Community
 
-- **Telegram**: https://t.me/downsyndromeniggajewcoin
+- **Telegram**: https://t.me/downsyndromeniggajew
 - **Instagram**: https://www.instagram.com/downsyndromeniggajew
 
 ## 💎 Tokenomics
